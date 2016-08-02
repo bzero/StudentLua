@@ -1,0 +1,4 @@
+init
+lib
+shared
+teste

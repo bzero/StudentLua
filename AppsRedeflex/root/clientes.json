@@ -1,0 +1,15 @@
+
+{
+  "huguinho": {
+    "senha": "1234",
+    "saldo": 60
+  },
+  "zezinho": {
+    "senha": "1234",
+    "saldo": 10
+  },
+  "luizinho": {
+    "senha": "1234",
+    "saldo": 0
+  }
+}

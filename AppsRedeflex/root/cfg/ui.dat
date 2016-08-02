@@ -1,0 +1,13 @@
+; Imagens
+IMG999 = /cfg/bg ;fundo vazio ;
+
+;Fontes
+FNT00 = /lua/shared/arial23.sfd ;131003     ~~~~ Redecard = ARIAL 20px!
+FNT02 = /lua/shared/arial19.sfd ;131003     ~~~~ Redecard = ARIAL 16px!
+FNT03 = /lua/shared/arialb19.sfd ;131003    ~~~~ Redecard = ARIAL Bold 16px!
+
+;Cores
+COLOR0 = 545454 ;Cinza
+COLOR1 = FFFFFF ;Branco
+
+MAXHEAP = 800000

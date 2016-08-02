@@ -1,0 +1,2 @@
+LUAC 20160801:192146 - /lua/appbasic/main.lua: /lua/appbasic/gui.lua:59: attempt to call field 'MsgComAnimacao' (a nil value)
+LUAC 20160801:192149 - /lua/appbasic/main.lua: /lua/appbasic/gui.lua:59: attempt to call field 'MsgComAnimacao' (a nil value)

@@ -1,0 +1,1 @@
+16080119214989/lua/appbasic/main.lua: /lua/appbasic/gui.lua:59: attempt to call field 'MsgComAnimacao' (a nil value)
